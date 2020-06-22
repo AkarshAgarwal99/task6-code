@@ -1,1 +1,3 @@
-this is my php file
+<?php
+print "Hello World!";
+?>
