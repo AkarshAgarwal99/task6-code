@@ -1,3 +1,3 @@
 <?php
-printttttt "Hello World!";
+print "Hello World!";
 ?>
